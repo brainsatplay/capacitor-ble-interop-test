@@ -1,5 +1,7 @@
 # capacitor_ble_tinybuild
  capacitor ble test with tinybuild to bundle the webapp
+ 
+https://github.com/capacitor-community/bluetooth-le#requestdevice
 
 #### In your project root
 `npm i`
