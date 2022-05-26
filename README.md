@@ -1,5 +1,5 @@
 # capacitor_ble_tinybuild
- capacitor ble test with tinybuild to bundle the webapp
+ capacitor ble test with tinybuild to bundle the webapp. <100MB node dependencies if tinybuild is installed locally, otherwise it's about 10MB, not counting Android Studio or XCode
  
 https://github.com/capacitor-community/bluetooth-le#requestdevice
 
