@@ -19,7 +19,7 @@ Build:
 - `npx cap copy` or `npx cap sync` to sync the www/ dist to the platform-specific folders.
 - `npx cap open android` to open android studio ready to build and serve the apk.
 
-Build the android project by click the Make Project hammer icon. Then run with your android device connected or the built-in android emulators active.
+Build the android project by click the Make Project hammer icon if it doesn't start automatically. Then if you see BUILD SUCCESSFUL, run with your android device connected or the built-in android emulators active.
 
 
 #### XCode

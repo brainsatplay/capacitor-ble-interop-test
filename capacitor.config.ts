@@ -3,7 +3,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 const config: CapacitorConfig = {
   appId: 'com.brainsatplay.bletest',
   appName: 'tinybuildapp',
-  webDir: 'www',
+  webDir: 'dist',
   bundledWebRuntime: false,
   plugins:{
     "BluetoothLe":{
