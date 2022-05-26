@@ -1,13 +1,13 @@
 {
 	"appId": "com.brainsatplay.bletest",
 	"appName": "tinybuildapp",
-	"webDir": "www",
+	"webDir": "dist",
 	"bundledWebRuntime": false,
 	"plugins": {
 		"BluetoothLe": {
 			"displayStrings": {
 				"scanning": "Scanning BLE...",
-				"cancel": "Cancelled scan.",
+				"cancel": "Stop Scanning",
 				"availableDevices": "Devices available!",
 				"noDeviceFound": "No BLE devices found."
 			}

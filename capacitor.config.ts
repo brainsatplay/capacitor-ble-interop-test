@@ -9,7 +9,7 @@ const config: CapacitorConfig = {
     "BluetoothLe":{
       "displayStrings": {
         "scanning":"Scanning BLE...",
-        "cancel":"Cancelled scan.",
+        "cancel":"Stop Scanning",
         "availableDevices":"Devices available!",
         "noDeviceFound": "No BLE devices found."
       }
